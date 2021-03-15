@@ -11,7 +11,6 @@
 ```kotlin
 val Contact = "pranshudee8@gmail.com"
 var TeamMembers = 17
-
-// keep working :)
+val list = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 
 ``` 
