@@ -7,4 +7,5 @@
 
 `
 ## Meeting Decisions :dart: 
-![image](https://user-images.githubusercontent.com/18210415/111191164-c982ef00-85dd-11eb-924b-a198db0cc028.png)
+> * 1 month udacity (xml) `#finalized`
+> * Project ( xml / jetpack compose `#decisionPending`)
