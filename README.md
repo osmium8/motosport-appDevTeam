@@ -9,7 +9,7 @@
 
 ```kotlin
 val Contact = "pranshudee8@gmail.com"
-var TeamMembers = 17
-val list = mutableListOf(Kotlin, Java, Android, XML, JetPack);
+var TeamMembers = 14
+val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 
 ``` 
