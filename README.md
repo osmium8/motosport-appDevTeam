@@ -1,5 +1,4 @@
 ``Application Development Club, Motosport-PUP``
-# appDev
 ## Recommended Resources
 1. **[Android Basics: User Interface](https://https://classroom.udacity.com/courses/ud834)** 
 
