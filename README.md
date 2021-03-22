@@ -12,7 +12,7 @@
 ### Task assigned
 > 
 * Submit club's app [ about CLUB activity ] `deadline - 1 month`
-* ![](https://i.imgur.com/zEDqvcJ.png)
+![image](https://user-images.githubusercontent.com/18210415/112025474-360c6980-8b5b-11eb-804d-bcaa4f1d3a5b.png)
 
 ### Meeting Decisions 
 > * 1 month udacity (xml) `#finalized`
@@ -24,7 +24,7 @@ var TeamMembers = 14
 val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 
 ``` 
-### Team members (14)
+### Team members (17)
 
 #### Leader : Pranshu Malhotra
 
@@ -33,6 +33,7 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 | Himanshu        | `active` |
 | Samrath         | `new`    |
 | Ankita          | `new`    |
+| Ankita Chaudhary| `new`    |
 | Ananya          | `new`    |
 | Divit           | `new`    |
 | Harshdeep       | `new`    |
@@ -44,5 +45,9 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 | Vani            | `new`    |
 | Vaibhav         | `new`    |
 | Yuthika         | `new`    |
+| Nikita          | `new`    |
+| Kartar          | `new`    |
+
+
 
 ![](https://i.imgur.com/aYc1AfH.png)![](https://i.imgur.com/hhHTapp.png)
