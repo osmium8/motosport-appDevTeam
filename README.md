@@ -3,11 +3,16 @@
 
 
 
+
 ---
 
 ### Recommended Resources
-1. **[Android Basics: User Interface](https://classroom.udacity.com/courses/ud834)** 
+1. **[Android Basics: User Interface](https://https://classroom.udacity.com/courses/ud834)** 
 
+### Task assigned
+> 
+* Submit club's app [ about CLUB activity ] `deadline - 1 month`
+* ![](https://i.imgur.com/zEDqvcJ.png)
 
 ### Meeting Decisions 
 > * 1 month udacity (xml) `#finalized`
@@ -20,6 +25,8 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 
 ``` 
 ### Team members (14)
+
+#### Leader : Pranshu Malhotra
 
 | Name            | status   |
 | --------------- | -------- |
