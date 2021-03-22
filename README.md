@@ -7,7 +7,7 @@
 ---
 
 ### Recommended Resources
-1. **[Android Basics: User Interface](https://https://classroom.udacity.com/courses/ud834)** 
+1. **[Android Basics: User Interface](https://classroom.udacity.com/courses/ud834)** 
 
 ### Task assigned
 > 
