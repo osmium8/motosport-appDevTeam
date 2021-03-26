@@ -51,3 +51,8 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 
 
 ![](https://i.imgur.com/aYc1AfH.png)![](https://i.imgur.com/hhHTapp.png)
+
+```SQL
+* meeting at 9 PM - MONDAY
+* Keep doing udacity course
+``` 
