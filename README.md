@@ -54,17 +54,6 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 
 ```SQL
 meeting at 9 PM - MONDAY
-$ Keep doing udacity course
-$ third notification
-$ fourth notification
-$ nth notification
-$ nth notification
-$ nth notification
-$ nth notification
-$ nth notification
-$ nth notification
-$ nth notification
-$ nth notification
-$ nth notification
-$ nth notification
+$Keep doing udacity course.
+$Assignment is compulsory.
 ``` 
