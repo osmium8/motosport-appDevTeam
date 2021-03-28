@@ -11,8 +11,7 @@
 
 ### Task assigned
 > 
-* Submit club's app [ about CLUB activity ] `deadline - 1 month`
-![image](https://user-images.githubusercontent.com/18210415/112025474-360c6980-8b5b-11eb-804d-bcaa4f1d3a5b.png)
+* Submit club's app [ about CLUB activity ] `deadline - 25 April 2021`
 
 ### Meeting Decisions 
 > * 1 month udacity (xml) `#finalized`
@@ -53,7 +52,7 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 ![](https://i.imgur.com/aYc1AfH.png)![](https://i.imgur.com/hhHTapp.png)
 
 ```SQL
-Meeting at 9 PM, evey monday.
-Keep doing udacity course.
 Assignment is compulsory.
+Keep doing udacity course.
+Meeting at 9 PM, evey monday.
 ``` 
