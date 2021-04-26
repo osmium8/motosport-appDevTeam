@@ -17,11 +17,12 @@
 ### Meeting Decisions 
 > * 1 month udacity (xml) `#6 submissions`
 > * Attending meetings is not necessary, but submissions of tasks is.
+
+
 ```kotlin
 val Contact = "pranshudee8@gmail.com"
 var TeamMembers = 14
 val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
-
 ``` 
 ### Team members (17)
 
