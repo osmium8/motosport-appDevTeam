@@ -8,6 +8,7 @@
 
 ### Recommended Resources
 1. **[Android Basics: User Interface](https://classroom.udacity.com/courses/ud834)** 
+2. **[Jetpack Compose: start here](https://developer.android.com/codelabs/jetpack-compose-basics#0)**
 
 ### Task assigned
 > 
