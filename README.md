@@ -11,11 +11,11 @@
 
 ### Task assigned
 > 
-* Submit club's app [ about CLUB activity ] `deadline - 25 April 2021`
+* Submit club's app [ about CLUB activity using JETPACK-COMPOSE] `deadline - 25 May 2021`
 
 ### Meeting Decisions 
-> * 1 month udacity (xml) `#finalized`
-> * Project ( xml / jetpack compose `#decisionPending`)
+> * 1 month udacity (xml) `#6 submissions`
+> * Project ( xml / jetpack compose )
 
 ```kotlin
 val Contact = "pranshudee8@gmail.com"
@@ -30,29 +30,26 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 | Name            | status   |
 | --------------- | -------- |
 | Himanshu        | `active` |
-| Samrath         | `new`    |
-| Ankita          | `new`    |
-| Ankita Chaudhary| `new`    |
-| Ananya          | `new`    |
-| Divit           | `new`    |
-| Harshdeep       | `new`    |
-| Ekam            | `new`    |
-| Karanpreet      | `new`    |
-| Naincy          | `new`    |
-| Navdeep         | `new`    |
-| Tashu           | `new`    |
-| Vani            | `new`    |
-| Vaibhav         | `new`    |
-| Yuthika         | `new`    |
-| Nikita          | `new`    |
-| Kartar          | `new`    |
+| Samrath         | -    |
+| Ankita          | -    |
+| Ankita Chaudhary| -    |
+| Divit           | +1    |
+| Harshdeep       | -    |
+| Ekam            | +1    |
+| Karanpreet      |  +1    |
+| Naincy          | -    |
+| Navdeep         | +1    |
+| Tashu           | +1    |
+| Yuthika         | -    |
+| Nikita          | -    |
+| Ishita          | -    |
 
 
 
-![](https://i.imgur.com/aYc1AfH.png)![](https://i.imgur.com/hhHTapp.png)
+![](https://i.imgur.com/aYc1AfH.png)
 
 ```SQL
+Learn basics of jetpack compose.
 Assignment is compulsory.
-Keep doing udacity course.
 Meeting at 9 PM, evey monday.
 ``` 
