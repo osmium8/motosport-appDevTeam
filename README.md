@@ -9,7 +9,7 @@
 ### Recommended Resources
 1. **[Android Basics: User Interface](https://classroom.udacity.com/courses/ud834)** 
 2. **[Jetpack Compose: start here](https://developer.android.com/codelabs/jetpack-compose-basics#0)**
-3. **[Android Basics in kotlin](https://developer.android.com/courses/android-basics-kotlin/course)**
+3. **[Android Basics in kotlin Unit1](https://developer.android.com/courses/android-basics-kotlin/unit-1)**
 
 ### Task assigned
 > * Submit club's app [ about CLUB activity using JETPACK-COMPOSE] `deadline - 25 May 2021`
