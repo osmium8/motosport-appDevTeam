@@ -12,8 +12,7 @@
 3. **[Android Basics in kotlin](https://developer.android.com/courses/android-basics-kotlin/course)**
 
 ### Task assigned
-> 
-* Submit club's app [ about CLUB activity using JETPACK-COMPOSE] `deadline - 25 May 2021`
+> * Submit club's app [ about CLUB activity using JETPACK-COMPOSE] `deadline - 25 May 2021`
 
 ### Meeting Decisions 
 > * 1 month udacity (xml) `#6 submissions`
