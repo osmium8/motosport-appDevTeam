@@ -9,6 +9,7 @@
 ### Recommended Resources
 1. **[Android Basics: User Interface](https://classroom.udacity.com/courses/ud834)** 
 2. **[Jetpack Compose: start here](https://developer.android.com/codelabs/jetpack-compose-basics#0)**
+3. **[Android Basics in kotlin](https://developer.android.com/courses/android-basics-kotlin/course)**
 
 ### Task assigned
 > 
@@ -16,8 +17,7 @@
 
 ### Meeting Decisions 
 > * 1 month udacity (xml) `#6 submissions`
-> * Project ( xml / jetpack compose )
-
+> * Attending meetings is not necessary, but submissions of tasks is.
 ```kotlin
 val Contact = "pranshudee8@gmail.com"
 var TeamMembers = 14
