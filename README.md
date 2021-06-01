@@ -30,17 +30,17 @@ val TechStack = mutableListOf(Kotlin, Java, Android, XML, JetPack);
 
 | Name            | status   |
 | --------------- | -------- |
-| Himanshu        | `active` |
+| Himanshu        | +2 |
 | Samrath         | -    |
 | Ankita          | -    |
 | Ankita Chaudhary| -    |
-| Divit           | +1    |
+| Divit           | +2    |
 | Harshdeep       | -    |
 | Ekam            | +1    |
 | Karanpreet      |  +1    |
 | Naincy          | -    |
-| Navdeep         | +1    |
-| Tashu           | +1    |
+| Navdeep         | +2    |
+| Tashu           | +2    |
 | Yuthika         | -    |
 | Nikita          | -    |
 | Ishita          | -    |
